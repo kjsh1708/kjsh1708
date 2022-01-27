@@ -1,5 +1,7 @@
 ### 
 
+Nice to meet you all! I am Kristi :information_desk_person:
+
 ![Kristi's :) GitHub stats](https://github-readme-stats.vercel.app/api?username=kjsh1708&show_icons=true&theme=tokyonight)
 
 <!--
